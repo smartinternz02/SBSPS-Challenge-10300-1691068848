@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ccddff;
+}
+
+header {
+    background-color: #160b31;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #160b31;
+    color: #fff;
+}
+
+form {
+    padding: 20px;
+}
+
+input, select {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    border: 1px solid black;
+}
+
+label {
+    color: #160b31;
+}
+
+.buttons {
+    background-color: #160b31;
+    color: white;
+    font-size: 18px;
+    border-radius: 10%;
+    border: 1px solid black;
+}
